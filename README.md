@@ -2,4 +2,4 @@
 
 Link for website:
 
-[](https://lukacub.github.io/My-Resume/)
+https://lukacub.github.io/My-Resume/
